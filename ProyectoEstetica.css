@@ -21,3 +21,6 @@ h3{
     border: 4px blueviolet double;
     width: 95px;
 }
+li{
+    display: inline;
+}
