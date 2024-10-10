@@ -19,8 +19,17 @@ h2{
 h3{
     color: blueviolet;
     border: 4px blueviolet double;
-    width: 95px;
+    text-align: center;
+    width: 30%;
+    margin: auto;
 }
 li{
-    display: inline;
+    display: inline-block;
+    background-color: darkred;
+    color: black;
+    width: 10%;
+    text-align: center;
+}
+li:hover{
+    background-color: rgb(255, 29, 29);
 }
