@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(26, 25, 25);
 }
 p{
     color: ivory;
@@ -32,4 +32,8 @@ li{
 }
 li:hover{
     background-color: rgb(255, 29, 29);
+}
+a{
+    text-decoration: none;
+    color: inherit;
 }
