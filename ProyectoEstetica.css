@@ -1,31 +1,31 @@
 body{
-    background-color: rgb(26, 25, 25);
+    background-color: black;
 }
 p{
     color: ivory;
 }
 h1{
-    color: darkred;
+    color: rgb(155, 17, 17);
     text-align: center; 
     font-weight: normal;
     width: 500px;
     margin: auto;
-    border: 4px darkred dotted;
+    border: 4px rgb(155, 17, 17) dotted;
 }
 h2{
-    color: darkred;
+    color: rgb(155, 17, 17);
     text-decoration: underline;
 }
 h3{
-    color: blueviolet;
-    border: 4px blueviolet double;
+    color: rgb(169, 102, 233);
+    border: 4px rgb(169, 102, 233) double;
     text-align: center;
     width: 30%;
     margin: auto;
 }
 li{
     display: inline-block;
-    background-color: darkred;
+    background-color: rgb(155, 17, 17);
     color: black;
     width: 10%;
     text-align: center;
