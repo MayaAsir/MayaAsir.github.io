@@ -26,7 +26,7 @@ h3#chillasart{
     text-align: center;
     width: 30%;
     margin: auto;
-    font-size: 5em;
+    font-size: 3em;
 }
 li{
     display: inline-block;
@@ -47,9 +47,9 @@ h3{
     color: rgb(169, 102, 233);
     text-align: center;
 }
-img#imagen{
+img.imagen{
     text-align: center;
 }
-p.enlace{
+p{
     text-align: center;
 }
