@@ -21,12 +21,12 @@ h2{
     font-size: xx-large;
 }
 h3#chillasart{
-    color: rgb(169, 102, 233);
-    border: 4px rgb(169, 102, 233) double;
+    color: rgb(192, 127, 253);
+    border: 4px rgb(0, 0, 0) double;
     text-align: center;
     width: 30%;
     margin: auto;
-    font-size: xx-large;
+    font-size: 5em;
 }
 li{
     display: inline-block;
