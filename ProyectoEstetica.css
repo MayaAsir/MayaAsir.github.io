@@ -6,6 +6,10 @@ p{
     font-size: large;
     text-align: justify;
 }
+p#aviso1{
+    text-align: right;
+    font-size: 0.8em;
+}
 h1{
     color: #fd3939;
     text-align: center; 
