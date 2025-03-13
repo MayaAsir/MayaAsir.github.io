@@ -61,3 +61,34 @@ div{
     text-align: center;
     color: white;
 }
+@media (max-width:1012px){
+    li{
+        display: block;
+        width: 100%;
+        padding: 10px;
+        border: none;
+        background-color: black;
+        color: white;
+        font-size: 15px;
+        border-bottom: 1px solid white;
+        height: 40px;
+        text-align: center;
+    }
+    ol{
+        text-align: center;
+        padding: 0;
+    }
+    body{
+        margin: 0 auto;
+    }
+}
+@media (max-width:800px){
+    h1{
+        width: auto;
+    }
+    img{
+        width: auto;
+        max-width: 100%;
+        height: auto;
+    }
+}
