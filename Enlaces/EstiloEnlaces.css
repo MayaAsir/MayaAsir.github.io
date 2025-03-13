@@ -1,14 +1,15 @@
 body{
     background-color: black;
 }
-h2{
-    color: rgb(192, 127, 253);
+h1{
+    color: rgb(240, 0, 0);
 }
 li{
-    background-color: rgb(207, 7, 7);
+    background-color: rgb(205, 144, 255);
     color: black;
-    border-bottom: 1px solid rgb(134, 46, 216);
+    border-bottom: 1px solid rgb(240, 0, 0);
     padding: 10px;
+    text-decoration: ;
 }
 a{
     color: inherit;
