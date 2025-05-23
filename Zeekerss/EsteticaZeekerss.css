@@ -1,6 +1,13 @@
 body{
     background-color: rgb(0, 0, 0);
 }
+body>p>a{
+    position: absolute;
+    left: -1000px;
+}
+body>p>a:focus{
+    position: static;
+}
 p{
     color: ivory;
     font-size: large;
